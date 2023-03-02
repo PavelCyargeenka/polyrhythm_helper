@@ -1,10 +1,7 @@
-# A small and simple function that may be useful for musicians
-# Creates clear schemes of various (poly)rhythmic combinations
-
 def polyrhythm():
     count_left = count_right = 1
 
-    # prompt the user to provide a (poly)rhythmic combination:
+    # prompt the user for a (poly)rhythmic combination:
     while True:
         try:
             count_left = int(input('Left hand: '))
