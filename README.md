@@ -1,2 +1,3 @@
 # polyrhythm_helper
-Contains a Python programme that can help musicians to read and play precisely polyrhythmic combinations
+A Python programme that can help musicians reading and playing 
+precisely any polyrhythmic combinations.
